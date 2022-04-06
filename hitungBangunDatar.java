@@ -107,6 +107,7 @@ public class hitungBangunDatar {
                 circ.hitungLuas();
                 break;
             default:
+                System.out.println("Nama bangun datar tidak valid");
                 break;
         }
     }
